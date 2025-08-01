@@ -4,6 +4,7 @@ plugins {
 }
 
 android {
+    namespace "jlin2.examples.localtesting"
     compileSdk 32
 
     defaultConfig {
